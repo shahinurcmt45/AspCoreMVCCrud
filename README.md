@@ -1,0 +1,2 @@
+# AspCoreMVCCrud
+AspCoreMVCCrud
