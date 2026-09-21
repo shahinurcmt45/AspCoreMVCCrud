@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Shahinur\Documents\Publish</_PublishTargetUrl>
+    <History>True|2026-09-17T07:20:13.7519771Z||;True|2026-09-17T13:15:22.5010926+06:00||;True|2026-09-17T12:17:42.9213416+06:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="StudentDbContext">
+      <Value>Data Source=DESKTOP-LOUGLQ2%3bInitial Catalog=lbs%3bUser ID=sa%3bPassword=Sa%40123456%3bTrust Server Certificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
